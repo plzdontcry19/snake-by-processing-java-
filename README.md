@@ -3,8 +3,8 @@
 This project was created when I was in the 2nd year of study in university.
 
 ### Team
-Naraphat Sanujit - software dev
-Saharat Boonyapatipha - interface designer
+- Naraphat Sanujit - software dev
+- Saharat Boonyapatipha - interface designer
 
 
 <img src="/snake-game-picture.JPG">
